@@ -11,9 +11,9 @@ The content is written in a simple, practical manner with examples wherever appl
 
 ```text
 Solaris-11/
-├── [1. Basic Commands](./1.%20Basic%20Commands)
-├── [2. Files and Directories](./2.%20Files%20and%20Directories)
-├── [3. Links](./3.%20Links)
+├── [Basic Commands](./1.%20Basic%20Commands)
+├── [Files and Directories](./2.%20Files%20and%20Directories)
+├── [Links](./3.%20Links)
 └── README.md
 
 ---
