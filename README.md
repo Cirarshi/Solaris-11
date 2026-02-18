@@ -11,10 +11,33 @@ The content is written in a simple, practical manner with examples wherever appl
 
 ```text
 Solaris-11/
-├── [Basic Commands](./1.%20Basic%20Commands)
-├── [Files and Directories](./2.%20Files%20and%20Directories)
-├── [Links](./3.%20Links)
+├── Basic Commands
+├── Files and Directories
+├── Links
 └── README.md
+
+---
+
+## Topics Overview
+
+### 📌 1. Basic Commands
+Contains commonly used Solaris commands for system monitoring and basic interaction with the operating system.
+
+➡️ Navigate: [Basic Commands](./1.%20Basic%20Commands)
+
+---
+
+### 📁 2. Files and Directories
+Covers commands related to file and directory management, including creation, deletion, navigation, and permissions.
+
+➡️ Navigate: [Files and Directories](./2.%20Files%20and%20Directories)
+
+---
+
+### 🔗 3. Links
+Explains soft (symbolic) links and hard links, how to create them, and the differences between both.
+
+➡️ Navigate: [Links](./3.%20Links)
 
 ---
 
