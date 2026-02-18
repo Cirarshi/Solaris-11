@@ -5,6 +5,49 @@ Each command is listed with its purpose and, where applicable, a simple example.
 
 ---
 
+## `bash`
+
+Activate user friendly session
+
+## `date`
+
+Display current date and time with time zone
+
+## `cal`
+
+Display current month calender
+
+**Example:**
+```sh
+cal 8 2025
+```
+## `bc`
+
+Activate binary calculator
+
+## `pwd`
+
+Display present working directory
+
+## `cd`
+
+It is for changing directories
+
+**Example:**
+```sh
+cd ..
+```
+
+## `uname`
+
+Dispalys name of the OS
+
+**Example:**
+```sh
+uname -a
+```
+display the name, platform and all other details
+
 ## `top`
 
 Displays real-time information about system processes and resource usage such as CPU and memory.
@@ -62,6 +105,31 @@ Displays how long the system has been running along with the load average and nu
 ```sh
 uptime
 ```
+
+## `whoami`
+
+Display the current user
+
+## `hostid`
+
+Displays host id of current user
+
+## `man <command>`
+
+Display the details of the command
+
+**Example:**
+```sh
+man cd
+```
+
+---
+
+**Example:**
+```sh
+top | wc -l
+```
+The above one counts the number of lines of output of a command
 
 ---
 
