@@ -21,6 +21,7 @@ Display current month calender
 ```sh
 cal 8 2025
 ```
+
 ## `bc`
 
 Activate binary calculator
